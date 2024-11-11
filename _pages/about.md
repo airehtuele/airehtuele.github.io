@@ -17,7 +17,6 @@ social: true # includes social icons at the bottom of the page
 
 >
 Hi ! Welcome to my page, my name is Anastasia, currently an undergraduate at Yonsei University double majoring in Information and Interaction Design and Bioconvergence. My research focuses on multiple areas such as Biosensors, Human-Machine Interfaces and Human-AI Interaction.
-
+>
 I also very much enjoy making art and participate in design projects, you can check out my work [here]([http://reddit.com](https://airehtuele.github.io/projects/)).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
