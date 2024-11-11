@@ -18,6 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+
 Hi ! Welcome to my page, my name is Anastasia, currently an undergraduate at Yonsei University double majoring in Information and Interaction Design and Bioconvergence. My multidisciplinary research focuses on Biosensors, Human-Machine Interfaces and Human-AI Interaction.
 
 I also very much enjoy making art and participate in design projects, you can check out my work[here]([http://reddit.com](https://airehtuele.github.io/projects/)).
