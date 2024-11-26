@@ -4,7 +4,7 @@ title: SignXR
 description: A mixed reality application for sign language learning
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: HCI
 related_publications: true
 ---
 
