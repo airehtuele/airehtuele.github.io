@@ -22,4 +22,7 @@ Hi ! Welcome to my page, my name is Anastasia, currently an undergraduate at Yon
 
 I also very much enjoy making art and participating in design projects—you can check out my work [here](/art/).
 
+
+---
 image: values.png
+---
